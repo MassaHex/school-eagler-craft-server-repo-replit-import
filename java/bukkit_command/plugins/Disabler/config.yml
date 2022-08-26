@@ -1,0 +1,47 @@
+Disable Creeper Explosion: false
+Disable TNT Explosion: false
+Disable Fireball Explosion: false
+Disable Fire: false
+Disable Fire Spread: false
+Disable Crafting:
+  message: '&4The force is not with you.'
+  show message: true
+  main:
+    - '657:2'
+Disable Placing:
+  message: '&4The force is not with you.'
+  show message: true
+  main:
+    - '657:2'
+Disable Interact:
+  message: '&4The force is not with you.'
+  show message: true
+  main:
+    - '657:2'
+Disable Dropping:
+  message: '&4The force is not with you.'
+  show message: true
+  main:
+    - '657:2'
+Disable Pick-Up:
+  message: '&4The force is not with you.'
+  show message: false
+  main:
+    - '657:2'
+Disable Item In Inventory:
+  message: '&4The force is not with you.'
+  show message: true
+  main:
+    - '657:2'
+Disable Dispensing:
+  main:
+    - '657:2'
+Disable Spawning:
+  main:
+    - '657:2'
+Disable Brewing:
+  main:
+    - '657:2'
+Delete Item If Found:
+  main:
+    - '657:2'
