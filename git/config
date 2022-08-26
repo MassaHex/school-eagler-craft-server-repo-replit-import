@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	fileMode = false
+	bare = false
+	logallrefupdates = true
+[user]
+	name = ayunami2000
+	email = <>
+[lfs]
+	repositoryformatversion = 0
